@@ -1,0 +1,32 @@
+Create "College Management System"
+
+to maintain :: Students , Teachers , Funds
+
+It includes::
+	
+	"Money management system for college"
+
+	Keep track of 
+	students total fees
+	fees already paid
+	teachers salary
+
+College contains :
+	Students
+	Teachers
+	Total money earned
+	Total money spend = teachers salary
+
+Teacher contains :	
+	ID
+	Name
+	salary
+
+Students contains :
+	Id
+	name
+	Year / grade
+	fees paid
+	total fees
+
+OOPs concept
